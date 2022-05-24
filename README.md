@@ -1,5 +1,5 @@
-### Hi there 👋
-
+<!-- ### Hi there 👋
+ -->
 <!--
 **thisissepehr/thisissepehr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!-- 
@@ -14,15 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- -->
+<!--  --> -->
 ## :wave: I'm Sepehr ![](https://komarev.com/ghpvc/?username=thisissepehr&color=green)
 
 - I'm a post-graduate student at Queen Mary university London.
 - I enjoy developing open source software to improve the accessibility and
   really passionate about machine learning methods.
-- are you looking for open source software for _targeted_ causal machine
-  learning? check out the [`tlverse` project](https://github.com/tlverse) and
-  [its handbook](https://tlverse.org/tlverse-handbook)!
 - if we have shared interests and you'd like to chat about them, feel free to
   ping me [on telegram](@sepaminian) or consider just
   [contacting me](https://thisissepehr.ir) directly.
