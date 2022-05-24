@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋
  -->
 <!--
-**thisissepehr/thisissepehr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**thisissepehr/thisissepehr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <!-- 
 Here are some ideas to get you started:
 
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## :wave: I'm Sepehr ![](https://komarev.com/ghpvc/?username=thisissepehr&color=green)
 
-- I'm a post-graduate student at Queen Mary university London.
+- I'm a post-graduate student at Queen Mary university of London.
 - I enjoy developing open source software to improve the accessibility and
   really passionate about machine learning methods.
 - if we have shared interests and you'd like to chat about them, feel free to
