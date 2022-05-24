@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  -->
-## :wave: I'm Nima ![](https://komarev.com/ghpvc/?username=thisissepehr&color=green)
+## :wave: I'm Sepehr ![](https://komarev.com/ghpvc/?username=thisissepehr&color=green)
 
 - I'm a post-graduate student at Queen Mary university London.
 - I enjoy developing open source software to improve the accessibility and
