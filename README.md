@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--  --> -->
+
 ## :wave: I'm Sepehr ![](https://komarev.com/ghpvc/?username=thisissepehr&color=green)
 
 - I'm a post-graduate student at Queen Mary university London.
 - I enjoy developing open source software to improve the accessibility and
   really passionate about machine learning methods.
 - if we have shared interests and you'd like to chat about them, feel free to
-  ping me [on telegram](@sepaminian) or consider just
+  ping me [on telegram](https://t.me/sepaminian) or consider just
   [contacting me](https://thisissepehr.ir) directly.
 
 ![Sepehr's github stats](https://github-readme-stats.vercel.app/api?username=thisissepehr&show_icons=true&count_private=true&theme=radical)
