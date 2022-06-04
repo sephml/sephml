@@ -5,7 +5,7 @@
   really passionate about machine learning methods.
 - if we have shared interests and you'd like to chat about them, feel free to
   ping me [on telegram](https://t.me/sepaminian) or consider just
-  [contacting me](https://thisissepehr.ir) directly.
+  [contacting me](https://thisissepehr.netlify.app/) directly.
 
 ![Sepehr's github stats](https://github-readme-stats.vercel.app/api?username=thisissepehr&show_icons=true&count_private=true&theme=radical)
 
