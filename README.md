@@ -1,6 +1,5 @@
-## :wave: I'm Sep ![](https://komarev.com/ghpvc/?username=thisissepehr&color=green)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=realstealthninja&label=Profile%20views&color=0e75b6&style=flat" alt="realstealthninja" /> </p>
 <h1 align="center">👋  Hello there, I'm Sep</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sephml&label=Profile%20views&color=0e75b6&style=flat" alt="sephml" /> </p>
 <h3 align="center">A humble developer and summoner of bugs from London :)</h3>
 
 - 🔭 Currently working on RAGs and LLMs
