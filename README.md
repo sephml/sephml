@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Sep 👋</h1>
 
 <p align="center">
-  <em>ML engineer in London — building AI systems that (mostly) do what they're told.</em>
+  <em>ML engineer in London building AI systems that (mostly) do what they're told.</em>
 </p>
 
 <p align="center">
@@ -14,13 +14,13 @@
 
 ### What I'm actually up to 🔭
 
-I work at the intersection of **AI, document intelligence, and enterprise systems** — mostly wrangling LLMs into doing useful things inside production environments where the stakes are higher than a weekend hackathon.
+I work at the intersection of **AI, Agentic systems, and production-grade enterprise systems**, mostly wrestling LLMs into doing useful things inside production environments where the stakes are higher than a weekend hackathon.
 
 Right now that means:
 - Building **Graph RAG agents** with hybrid BM25 + vector search, Azure AI Foundry, and a healthy fear of hallucinations
 - Designing **document intelligence** systems that process legal and patent documents at scale
-- Exploring **LLM evaluation** strategies — because vibes-based QA doesn't scale
-- Occasionally questioning every architectural decision at 11pm
+- Exploring **LLM evaluation** strategies because vibes-based QA doesn't scale
+- Occasionally questioning every architectural decision at 11 pm
 
 ---
 
@@ -35,6 +35,7 @@ Right now that means:
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/CosmosDB-0078D4?style=flat&logo=microsoft-azure&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Anthropic-412991?style=flat&logo=Anthropic&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
 </p>
@@ -52,15 +53,5 @@ Right now that means:
 
 ### Get in touch 📫
 
-If you're into RAGs, LLMs, NLP, or just want to argue about the right way to chunk a document — find me on [Telegram](https://t.me/sepehram7) or drop by [sepehr.uk](https://sepehr.uk).
+If you're into RAGs, LLMs, NLP, or want to hear why my chunking strategy is better than yours (it isn't), find me on [Telegram](https://t.me/sepehram7) or drop by [sepehr.uk](https://sepehr.uk).
 
----
-
-<h3 align="center">Trophies 🏆</h3>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sephml&theme=onedark&column=4&margin-w=10" alt="trophies" />
-  </a>
-</p>
-
----
